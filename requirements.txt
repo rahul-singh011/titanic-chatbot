@@ -9,4 +9,5 @@ seaborn
 streamlit
 huggingface_hub
 transformers
-langchain-huggingface 
+langchain-huggingface
+langchain-experimental 
