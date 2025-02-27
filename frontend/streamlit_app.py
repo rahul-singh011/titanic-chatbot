@@ -59,7 +59,7 @@ if prompt := st.chat_input("Ask me about the Titanic dataset..."):
         with st.spinner("Thinking..."):
             try:
                 response = requests.post(
-                    "https://titanic-chatbot-rvwr.onrender.com",
+                    "https://titanic-chatbot-rvwr.onrender.com/query",
                     json={"question": prompt},
                     timeout=60
                 )
