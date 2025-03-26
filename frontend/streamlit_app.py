@@ -9,7 +9,7 @@ import io
 st.set_page_config(
     page_title="Titanic Dataset Chat Assistant",
     page_icon="🚢",
-    layout="wide"
+    layout="wide" 
 )
 
 # custom CSS
