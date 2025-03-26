@@ -10,4 +10,4 @@ streamlit
 huggingface_hub
 transformers
 langchain-huggingface
-langchain-experimental 
+langchain-experimental  
